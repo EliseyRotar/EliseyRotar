@@ -12,7 +12,7 @@
 
 <h2 align="center">About Me 🚀</h2>
 
-<p align="center">I'm a developer from Italy (I.T.I. G. Marconi) who builds production-ready systems and automation tools. I specialize in backend development, community bots, security tools, and cross-platform applications with comprehensive testing and documentation.</p>
+<p align="center">I'm a developer from Italy who builds production-ready systems and automation tools. I specialize in backend development, community bots, security tools, and cross-platform applications with comprehensive testing and documentation.</p>
 
 <h2 align="center">Featured Projects 🎯</h2>
 
@@ -24,7 +24,6 @@
 | 💬 **[WhatsApp Bot](https://github.com/EliseyRotar/whatsapp-bot)** | Multi-purpose bot with 109+ commands, 7 languages | Node.js, Baileys, SQLite |
 | 🌤️ **[VR_Meteo](https://github.com/EliseyRotar/VR_Meteo)** | Weather dashboard with 7-day forecasts | Vanilla JS, Open-Meteo API |
 | 📱 **[Music Sync](https://github.com/EliseyRotar/music_sync)** | Sync music between PC and Android via ADB | Python, ADB |
-| 📚 **[Agenda Scolastica](https://github.com/EliseyRotar/agenda-scolastica)** | School agenda management system | Java |
 | 🏋️ **[Training Scheduler](https://github.com/EliseyRotar/Training-Scheduler)** | Workout planner with custom timers | Python |
 | 🔒 **[L3MON](https://github.com/EliseyRotar/L3MON)** | Android RAT with Node.js dashboard | Smali, Node.js |
 | 🧮 **[Equation Solver](https://github.com/EliseyRotar/Risolutore_Equazioni_Python)** | Solves 1st and 2nd degree equations | Python |
@@ -87,7 +86,6 @@
 
 ### 🎓 School Projects
 **Agenda Scolastica** - Java-based school agenda management system (4BI project)  
-**Orario Settimanale 3BI** - Weekly schedule display for class 3BI  
 **RAEE Website** - Educational site about electronic waste
 
 ### 🛠️ Utilities & Tools
@@ -121,7 +119,6 @@
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-EliseyRotar-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EliseyRotar)
-[![School](https://img.shields.io/badge/School-I.T.I._G._Marconi-0077B5?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/EliseyRotar)
 [![Location](https://img.shields.io/badge/Location-Italy-009246?style=for-the-badge&logo=google-maps&logoColor=white)](https://github.com/EliseyRotar)
 
 </div>
