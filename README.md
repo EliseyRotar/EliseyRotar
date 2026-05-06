@@ -5,14 +5,14 @@
 <h1 align="center">Hi there, I'm Eli6! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=30&lines=AI-Driven+Developer;Multi-Agent+Workflow+Architect;System+Tools+%26+Automation+Expert;Building+with+Kiro+CLI+%26+AI+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=30&lines=Full+Stack+Developer;System+Tools+%26+Automation;Security+%26+Android+Development;Building+Production-Ready+Solutions" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <h2 align="center">About Me 🚀</h2>
 
-<p align="center">I'm a developer who builds production-ready systems using AI-driven workflows and multi-agent collaboration. I specialize in automation tools, community bots, and AI-assisted development that accelerates coding by 10x while maintaining 95%+ test coverage.</p>
+<p align="center">I'm a developer from Italy (I.T.I. G. Marconi) who builds production-ready systems and automation tools. I specialize in backend development, community bots, security tools, and cross-platform applications with comprehensive testing and documentation.</p>
 
 <h2 align="center">Featured Projects 🎯</h2>
 
@@ -20,11 +20,16 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🖥️ **Android TV Tools** | Cross-distribution device management system | Python, ADB, pytest |
-| 💬 **WhatsApp Bot** | Multi-agent bot with 109+ commands, 7 languages | Node.js, Baileys, SQLite |
-| 🔒 **HackerAI** | AI-powered penetration testing assistant | Next.js, E2B, Convex |
-| 🎮 **203658.xyz** | XQR Cartridge encryption toolkit | JavaScript, Crypto |
-| 🌤️ **VR_Meteo** | Weather dashboard with 7-day forecasts | Vanilla JS, APIs |
+| 🎮 **[203658.xyz](https://github.com/EliseyRotar/203658.xyz)** | XQR Cartridge encryption toolkit for adventure game | JavaScript, Crypto |
+| 💬 **[WhatsApp Bot](https://github.com/EliseyRotar/whatsapp-bot)** | Multi-purpose bot with 109+ commands, 7 languages | Node.js, Baileys, SQLite |
+| 🌤️ **[VR_Meteo](https://github.com/EliseyRotar/VR_Meteo)** | Weather dashboard with 7-day forecasts | Vanilla JS, Open-Meteo API |
+| 📱 **[Music Sync](https://github.com/EliseyRotar/music_sync)** | Sync music between PC and Android via ADB | Python, ADB |
+| 📚 **[Agenda Scolastica](https://github.com/EliseyRotar/agenda-scolastica)** | School agenda management system | Java |
+| 🏋️ **[Training Scheduler](https://github.com/EliseyRotar/Training-Scheduler)** | Workout planner with custom timers | Python |
+| 🔒 **[L3MON](https://github.com/EliseyRotar/L3MON)** | Android RAT with Node.js dashboard | Smali, Node.js |
+| 🧮 **[Equation Solver](https://github.com/EliseyRotar/Risolutore_Equazioni_Python)** | Solves 1st and 2nd degree equations | Python |
+| 🍽️ **[Review Analyzer](https://github.com/EliseyRotar/medie_recensioni_py)** | Restaurant review rating calculator | Python |
+| ✈️ **[GoodTravel](https://github.com/EliseyRotar/GoodTravel)** | Travel package management system | Python |
 
 </div>
 
@@ -34,29 +39,17 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,java,html,css,react,nextjs,sqlite,redis,docker,git,linux,vscode&perline=10&theme=dark" />
 </div>
 
-<h2 align="center">AI Development Tools 🤖</h2>
-
-<div align="center">
-  
-  ![Kiro CLI](https://img.shields.io/badge/Kiro_CLI-Primary_Agent-6B5DD3?style=for-the-badge)
-  ![OpenRouter](https://img.shields.io/badge/OpenRouter-Multi_Model-36BCF7?style=for-the-badge)
-  ![Groq](https://img.shields.io/badge/Groq-Fast_Inference-00D4AA?style=for-the-badge)
-  ![E2B](https://img.shields.io/badge/E2B-Sandboxes-FF6B6B?style=for-the-badge)
-  
-</div>
-
-<h2 align="center">Development Metrics 📊</h2>
+<h2 align="center">Development Focus 🎯</h2>
 
 <div align="center">
 
 ```
-🔥 10,000+ lines of AI-generated code
-⚡ 10x development speed acceleration  
-✅ 95%+ automated test coverage
-🤖 ~3M+ tokens consumed in development
-📦 26 public repositories
-🌍 7 languages supported (WhatsApp Bot)
-💬 1000+ messages/day processed
+🔧 System Tools & Automation
+🤖 Community Bots & Chat Systems  
+🔒 Security & Android Development
+📱 Cross-Platform Applications
+🧪 Test-Driven Development
+📚 Comprehensive Documentation
 ```
 
 </div>
@@ -72,20 +65,54 @@
   <img src="https://github-profile-maker.vercel.app/api/streak?username=EliseyRotar&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </div>
 
-<h2 align="center">AI Workflow Architecture 🔄</h2>
+<h2 align="center">Project Highlights 🌟</h2>
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Task] --> B[Multi-Agent Decomposition]
-    B --> C[Parallel Execution]
-    C --> D[Automated Testing]
-    D --> E[Production Deployment]
-    E --> F[Monitoring]
-```
+### 🎮 Gaming & Entertainment
+**203658.xyz** - Complete encryption/decryption toolkit for XQR cartridge adventure game with full documentation
 
-**Multi-Agent Collaboration** → **Long-Chain Reasoning** → **Automated Validation** → **Production Ready**
+### 💬 Communication & Bots
+**WhatsApp Bot** - Production-ready bot with 109+ commands, economy system, games (blackjack, chess, slots), multi-language support (7 languages), and web dashboard
+
+### 🌐 Web Applications
+**VR_Meteo** - School project weather dashboard with city search, 7-day forecasts, and real-time data from Open-Meteo API  
+**FridgeLab** - Web-based application for food management  
+**EcoLens Website** - Environmental awareness platform  
+**Tech Events MSI** - Event management system
+
+### 📱 Android & Mobile
+**Music Sync** - Python tool to sync music between PC and Android devices using ADB  
+**L3MON** - Web-based Remote Administration Tool for Android with real-time monitoring
+
+### 🎓 School Projects
+**Agenda Scolastica** - Java-based school agenda management system (4BI project)  
+**Orario Settimanale 3BI** - Weekly schedule display for class 3BI  
+**RAEE Website** - Educational site about electronic waste
+
+### 🛠️ Utilities & Tools
+**Training Scheduler** - Workout planning tool with custom timers and audio alerts  
+**Equation Solver** - Solves algebraic equations (1st and 2nd degree)  
+**Review Analyzer** - Calculates average ratings from restaurant reviews  
+**HTML Generator** - Dynamic HTML page generator from text data  
+**Calculator** - Simple Python calculator
+
+### 🏢 Business & Management
+**GoodTravel** - Travel package management system for agencies  
+**ABB Project** - Collaborative project (forked and improved)
+
+</div>
+
+<h2 align="center">Recent Activity 🔥</h2>
+
+<div align="center">
+
+- 🎮 Maintaining **203658.xyz** encryption toolkit
+- 🤖 Developing **WhatsApp Bot** with advanced features
+- 🌤️ Building **VR_Meteo** weather dashboard
+- 📱 Working on **Android development** tools
+- 🔒 Contributing to **security projects**
+- 📚 Creating **school projects** in Java and Python
 
 </div>
 
@@ -103,18 +130,6 @@ graph LR
   <img src="https://komarev.com/ghpvc/?username=EliseyRotar&color=6B5DD3&style=flat&label=Profile%20Views" alt="Profile Views" />
 </div>
 
-<h2 align="center">Recent Activity 🔥</h2>
-
-<div align="center">
-
-- 🔨 Building **Android TV Tools** with AI-assisted architecture
-- 🤖 Maintaining **WhatsApp Bot** with 109+ commands
-- 🚀 Contributing to **HackerAI** penetration testing platform
-- 📚 Exploring multi-agent orchestration patterns
-- ⚡ Accelerating development with Kiro CLI workflows
-
-</div>
-
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=6B5DD3&colorEnd=36BCF7&height=120&section=footer&text=Thanks+for+visiting%21&fontSize=24&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=true&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=66" />
 </div>
@@ -122,5 +137,5 @@ graph LR
 ---
 
 <div align="center">
-  <sub>🤯 Crazy work | Built with AI-driven workflows | Powered by Kiro CLI</sub>
+  <sub>🤯 Crazy work | 26 Public Repositories | Building Production-Ready Solutions</sub>
 </div>
