@@ -50,8 +50,10 @@
 <div align="center">
 
 ```
+🔥 10,000+ lines of AI-generated code
 ⚡ 10x development speed acceleration  
 ✅ 95%+ automated test coverage
+🤖 ~3M+ tokens consumed in development
 📦 26 public repositories
 🌍 7 languages supported (WhatsApp Bot)
 💬 1000+ messages/day processed
@@ -92,6 +94,7 @@ graph LR
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-EliseyRotar-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EliseyRotar)
+[![School](https://img.shields.io/badge/School-I.T.I._G._Marconi-0077B5?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/EliseyRotar)
 [![Location](https://img.shields.io/badge/Location-Italy-009246?style=for-the-badge&logo=google-maps&logoColor=white)](https://github.com/EliseyRotar)
 
 </div>
